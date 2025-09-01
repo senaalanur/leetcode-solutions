@@ -6,4 +6,4 @@ Languages used: Python (mainly).
 ## Problems
 
 ### Strings
-- [Merge Strings Alternately](./Strings/merge_strings_alternately.py)
+- [Merge Strings Alternately](https://github.com/senaalanur/leetcode-solutions/blob/main/merge_strings_alternately.py)
